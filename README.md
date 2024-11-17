@@ -50,5 +50,5 @@ Extracted Entities:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/mail_entity_recognizer.git
+git clone https://github.com/Vijayk-213/mail_entity_recognizer.git
 cd mail_entity_recognizer
